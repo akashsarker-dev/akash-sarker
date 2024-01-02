@@ -34,19 +34,35 @@
 
 
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker-dev&card_width=550&theme=radical)](https://github.com/akashsarker-dev)
+
+
+<br clear="both">
+
+<div>
+
+
+  
+  <div align="center" style="display: flex; justify-content: center; gap:10px; margin:0 auto" >
+  
+   <div >
+
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker-dev&card_width=500px&theme=radical)](https://github.com/akashsarker-dev)
+
+    
+   <img src="https://github-readme-stats.vercel.app/api?username=akashsarker-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  height="" alt="streak graph"  />
+   
+  <img src="https://streak-stats.demolab.com?user=akashsarker-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  height="" alt="streak graph"  />
+  </div>
+  
+</div>
+</div>
+
 
 [website]: https://akashsarkerdev.netlify.app//
 [linkedin]: https://www.linkedin.com/in/akashsarker/
 
 [webdevplaylist]: https://akashsarkerdev.netlify.app/
-
-<br clear="both">
-
-<div align="center" style="display: flex;  " >
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsarker-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=akashsarker-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 
 
