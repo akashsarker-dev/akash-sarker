@@ -1,6 +1,6 @@
-# Hi there, I'm [Akash Sarker][website]👨‍💻
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsarker-dev&label=Profile%20views&color=0e75b6&style=flat" alt="akashsarker-dev" /> </p>
+
+# Hi there, I'm [Akash Sarker][website]👨‍💻
 
 ### Welcome to my GitHub's World👋
 
@@ -40,3 +40,8 @@
 [linkedin]: https://www.linkedin.com/in/akashsarker/
 
 [webdevplaylist]: https://akashsarkerdev.netlify.app/
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsarker-dev&show_icons=true&locale=en" alt="akashsarker-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsarker-dev&" alt="akashsarker-dev" /></p>
