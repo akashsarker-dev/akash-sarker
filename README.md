@@ -32,7 +32,7 @@
 
 
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohelrana63&card_width=550&theme=radical)](https://github.com/Shohelrana63)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker-dev&card_width=550&theme=radical)](https://github.com/akashsarker-dev)
 
 [website]: https://akashsarkerdev.netlify.app//
 [linkedin]: https://www.linkedin.com/in/akashsarker/
