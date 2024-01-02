@@ -1,5 +1,7 @@
 # Hi there, I'm [Akash Sarker][website]👨‍💻
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsarker-dev&label=Profile%20views&color=0e75b6&style=flat" alt="akashsarker-dev" /> </p>
+
 ### Welcome to my GitHub's World👋
 
 ## I'm a Frontend Web Developer. I strive to create simple, original, and impactful User Experiences.🚀
