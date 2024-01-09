@@ -9,7 +9,7 @@
 - 💻 I'm passionate about what I learn and apply them into real life.
 - ⌚ 2022 Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
 - 👯 I’m looking to collaborate on any kind of interesting projects.
-- 📫 How to reach me: akashsarker.net@gmail.com.
+- 📫 How to reach me: akashsarker.dev@gmail.com.
 - 🌐 Fun fact: I love to Explore the world.
 
 ### 🤝 Connect with me:
