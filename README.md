@@ -42,17 +42,17 @@
 
 
   
-  <div align="center" style="display: flex; justify-content: center; gap:10px; margin:0 auto" >
-  
-   <div >
+  <div align="center" style="display: flex; flex-direction: column;  gap:10px; margin:0 auto; align-items: center;" >
+   
+   
 
-   ![akashsarker012's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker012&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker012&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="60%" align="center">
 
-   ![akashsarker012's Stats](https://github-readme-stats.vercel.app/api?username=akashsarker012&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=akashsarker012&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="70%">
 
-   ![akashsarker012's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashsarker012&theme=vue-dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsarker012&theme=vue-dark&hide_border=true" width="80%" padding="20px">
+ </div>
 
-  </div>
   
 </div>
 </div>
@@ -62,6 +62,8 @@
 [linkedin]: https://www.linkedin.com/in/akashsarker/
 
 [webdevplaylist]: https://akashsarkerdev.netlify.app/
+
+
 
 
 
