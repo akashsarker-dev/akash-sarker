@@ -43,16 +43,16 @@
 
   
   <div align="center" style="display: flex; justify-content: center; gap:10px; margin:0 auto" >
-    </div>
-   
+  
+   <div >
 
    ![akashsarker012's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker012&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
    ![akashsarker012's Stats](https://github-readme-stats.vercel.app/api?username=akashsarker012&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
    ![akashsarker012's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashsarker012&theme=vue-dark&hide_border=true)
-<div >
 
+  </div>
   
 </div>
 </div>
