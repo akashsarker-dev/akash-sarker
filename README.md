@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsarker-dev&label=Profile%20views&color=0e75b6&style=flat" alt="akashsarker-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsarker012&label=Profile%20views&color=0e75b6&style=flat" alt="akashsarker012" /> </p>
 
 # Hi there, I'm [Akash Sarker][website]👨‍💻
 
@@ -14,7 +14,7 @@
 
 ### 🤝 Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsarker/) [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsarker-dev) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akashsarker.new/)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsarker.net@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsarker/) [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsarker012) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akashsarker.new/)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsarker.net@gmail.com)
 
 ## Skills
 
@@ -47,12 +47,12 @@
    <div >
 
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker-dev&card_width=500px&theme=radical)](https://github.com/akashsarker-dev)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsarker012&card_width=500px&theme=radical)](https://github.com/akashsarker012)
 
     
-   <img src="https://github-readme-stats.vercel.app/api?username=akashsarker-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  height="" alt="streak graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=akashsarker012&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  height="" alt="streak graph"  />
    
-  <img src="https://streak-stats.demolab.com?user=akashsarker-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  height="" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=akashsarker012&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  height="" alt="streak graph"  />
   </div>
   
 </div>
