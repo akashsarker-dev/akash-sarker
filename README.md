@@ -7,14 +7,14 @@
 ## I'm a Frontend Web Developer. I strive to create simple, original, and impactful User Experiences.🚀
 
 - 💻 I'm passionate about what I learn and apply them into real life.
-- ⌚ 2022 Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
+- ⌚ 2024 Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
 - 👯 I’m looking to collaborate on any kind of interesting projects.
 - 📫 How to reach me: akashsarker.dev@gmail.com.
 - 🌐 Fun fact: I love to Explore the world.
 
 ### 🤝 Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsarker/) [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsarker012) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akashsarker.new/)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsarker.net@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsarker/) [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsarker012) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akashsarker.new/)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsarker.dev@gmail.com)
 
 ## Skills
 
